@@ -9,5 +9,6 @@ This is my first experience with building a mobile application. Didn't manage to
 There are some hacky coding bits in there because of unexpected bugs from ui libraries. The ugliest bits are definitely the async calls to the database. Will definitely refactor the code if I ever get back to working on this project.
 
 Sample videos:
+
 https://user-images.githubusercontent.com/58980435/144396381-8843a525-7719-4433-ba85-070573130dee.mp4
 https://user-images.githubusercontent.com/58980435/144396483-09263d07-8748-47eb-9d3d-5e31adebfc14.mp4
